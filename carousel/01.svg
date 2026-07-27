@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#b7b6b7"/>
+  <style>text { font-family: 'DejaVu Sans', Arial, sans-serif; }</style>
+  <text x="72" y="75" font-size="22" font-weight="700" letter-spacing="2">SEGURIDAD · PBA</text>
+  <text x="1008" y="75" font-size="20" font-weight="700" text-anchor="end">1/6</text>
+  <line x1="72" y1="102" x2="1008" y2="102" stroke="#111" stroke-width="2"/>
+<text x="72" y="230" font-size="77" font-weight="800" fill="#111111" text-anchor="start" font-style="normal">¿QUÉ PASA CUANDO</text>
+<text x="72" y="305" font-size="77" font-weight="800" fill="#111111" text-anchor="start" font-style="normal">LA INSEGURIDAD</text>
+<text x="72" y="381" font-size="77" font-weight="800" fill="#111111" text-anchor="start" font-style="normal">DEJA DE SER</text>
+<text x="72" y="456" font-size="77" font-weight="800" fill="#111111" text-anchor="start" font-style="normal">UNA SENSACIÓN?</text><rect x="72" y="610" width="936" height="4" fill="#111111"/><text x="72" y="805" font-size="185" font-weight="800" fill="#d92f35" text-anchor="start" font-style="normal">37%</text><text x="82" y="890" font-size="37" font-weight="700" fill="#111111" text-anchor="start" font-style="normal">de los hogares bonaerenses sufrió</text>
+<text x="82" y="935" font-size="37" font-weight="700" fill="#111111" text-anchor="start" font-style="normal">un hecho de inseguridad en el último año.</text><text x="72" y="1150" font-size="26" font-weight="500" fill="#111111" text-anchor="start" font-style="normal">Deslizá para ver qué cambia después.</text>  <g transform="translate(72 1262)">
+    <circle cx="7" cy="-7" r="7" fill="#ff6b2c"/><circle cx="24" cy="-7" r="7" fill="#ff6b2c"/><circle cx="15.5" cy="-22" r="7" fill="#ff6b2c"/>
+    <text x="42" y="0" font-size="26" font-weight="800">afiches</text>
+  </g>
+</svg>
