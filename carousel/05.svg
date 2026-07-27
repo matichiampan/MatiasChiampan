@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#b7b6b7"/>
+  <style>text { font-family: 'DejaVu Sans', Arial, sans-serif; }</style>
+  <text x="72" y="75" font-size="22" font-weight="700" letter-spacing="2">ENTREVISTAS GUIADAS CON IA</text>
+  <text x="1008" y="75" font-size="20" font-weight="700" text-anchor="end">5/6</text>
+  <line x1="72" y1="102" x2="1008" y2="102" stroke="#111" stroke-width="2"/>
+<text x="72" y="210" font-size="31" font-weight="800" fill="#111111" text-anchor="start" font-style="normal">PERO LO MÁS IMPORTANTE:</text><text x="72" y="290" font-size="64" font-weight="800" fill="#d92f35" text-anchor="start" font-style="normal">LO MEDIMOS EN LAS</text>
+<text x="72" y="356" font-size="64" font-weight="800" fill="#d92f35" text-anchor="start" font-style="normal">PROPIAS PALABRAS</text>
+<text x="72" y="422" font-size="64" font-weight="800" fill="#d92f35" text-anchor="start" font-style="normal">DE LAS PERSONAS</text><rect x="72" y="575" width="936" height="382" rx="22" fill="#111111"/><text x="112" y="660" font-size="30" font-weight="700" fill="#ffffff" text-anchor="start" font-style="normal">“Volvíamos del club y unos chicos</text><text x="112" y="705" font-size="30" font-weight="700" fill="#ffffff" text-anchor="start" font-style="normal">en moto nos arrebataron las</text><text x="112" y="750" font-size="30" font-weight="700" fill="#ffffff" text-anchor="start" font-style="normal">riñoneras. Lo peor fue perder las</text><text x="112" y="795" font-size="30" font-weight="700" fill="#ffffff" text-anchor="start" font-style="normal">llaves de casa; esa noche</text><text x="112" y="840" font-size="30" font-weight="700" fill="#ffffff" text-anchor="start" font-style="normal">dormimos muy asustados.”</text><text x="112" y="912" font-size="17" font-weight="700" fill="#b7b6b7" text-anchor="start" font-style="normal">MUJER · 45–59 · MORÓN · CONURBANO</text><text x="72" y="1035" font-size="25" font-weight="600" fill="#111111" text-anchor="start" font-style="normal">Nuestro entrevistador IA combina profundidad cualitativa</text>
+<text x="72" y="1068" font-size="25" font-weight="600" fill="#111111" text-anchor="start" font-style="normal">con una escala cuantitativa: no solo cuánto, también por qué.</text>  <g transform="translate(72 1262)">
+    <circle cx="7" cy="-7" r="7" fill="#ff6b2c"/><circle cx="24" cy="-7" r="7" fill="#ff6b2c"/><circle cx="15.5" cy="-22" r="7" fill="#ff6b2c"/>
+    <text x="42" y="0" font-size="26" font-weight="800">afiches</text>
+  </g>
+</svg>
